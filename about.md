@@ -1,5 +1,5 @@
 ---
 layout: default
-title: About US
+title: About Uz
 ---
 About 
