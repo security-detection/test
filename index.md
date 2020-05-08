@@ -1,1 +1,4 @@
+---
+title: Home
+---
 yo dudes!
