@@ -1,5 +1,5 @@
 ---
 layout: default
-title: About Uz
+title: About
 ---
-About 
+# About page
